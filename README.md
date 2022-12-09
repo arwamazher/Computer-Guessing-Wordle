@@ -1,2 +1,2 @@
 # Computer-Guessing-Wordle
-This game works just like NY Times Wordle, however the computer guesses the same way a real person would
+This game works just like NY Times Wordle, however the computer guesses the same way a real person would. The first guess will always be "arise" because it is a good starting word, but it can be changed. The computer will always guess the word in 15 guesses or less by using information provided after each guess i.e. if there is an asterisk in that position, the letter is in the word but in the wrong spot and if the letter becomes capitalized, that means the letter is in the word and in the right spot. By using this information, the computer is able to narrow down its guesses for the secret Wordle word.
